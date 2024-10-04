@@ -101,3 +101,11 @@ body{
 .weather {
     display: none;
 }
+
+.error {
+    font-size: 15px;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: none;
+}
